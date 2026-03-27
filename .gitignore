@@ -1,0 +1,17 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+/[Uu]ser[Ss]ettings/
+
+# 에셋 폴더 안의 특정 폴더 제외 (앞에 /Assets/ 를 정확히 붙여야 합니다)
+/Assets/[Pp]lugins/
+/Assets/[Ss]ettings/
+
+# 비주얼 스튜디오 파일
+*.csproj
+*.sln
+*.userprefs
